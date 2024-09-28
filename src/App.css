@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+form{
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.message{
+  font-size: smaller;
+}
